@@ -1,0 +1,11 @@
+D:\ITEA\ETOGO_CASINO\bin\Debug\netcoreapp3.1\ETOGO_CASINO.exe
+D:\ITEA\ETOGO_CASINO\bin\Debug\netcoreapp3.1\ETOGO_CASINO.deps.json
+D:\ITEA\ETOGO_CASINO\bin\Debug\netcoreapp3.1\ETOGO_CASINO.runtimeconfig.json
+D:\ITEA\ETOGO_CASINO\bin\Debug\netcoreapp3.1\ETOGO_CASINO.runtimeconfig.dev.json
+D:\ITEA\ETOGO_CASINO\bin\Debug\netcoreapp3.1\ETOGO_CASINO.dll
+D:\ITEA\ETOGO_CASINO\bin\Debug\netcoreapp3.1\ETOGO_CASINO.pdb
+D:\ITEA\ETOGO_CASINO\obj\Debug\netcoreapp3.1\ETOGO_CASINO.csprojAssemblyReference.cache
+D:\ITEA\ETOGO_CASINO\obj\Debug\netcoreapp3.1\ETOGO_CASINO.AssemblyInfoInputs.cache
+D:\ITEA\ETOGO_CASINO\obj\Debug\netcoreapp3.1\ETOGO_CASINO.AssemblyInfo.cs
+D:\ITEA\ETOGO_CASINO\obj\Debug\netcoreapp3.1\ETOGO_CASINO.dll
+D:\ITEA\ETOGO_CASINO\obj\Debug\netcoreapp3.1\ETOGO_CASINO.pdb
